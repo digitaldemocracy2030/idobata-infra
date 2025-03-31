@@ -1,0 +1,4 @@
+.vscode
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/dev.auto.tfvars
